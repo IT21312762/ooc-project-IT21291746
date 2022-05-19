@@ -3,7 +3,7 @@
 #ifndef PASSENGER_H
 #define PASSENGER_H
 #include<cstring>
-#include "guest.h"
+#include "Guest.h"
 class Passenger : public Guest {
 protected:
  int passengerID;
