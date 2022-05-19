@@ -1,7 +1,7 @@
 //IT21306518
 //Jayasinghe.J.I.B
 #include<cstring>
-#include "guest.h"
+#include "Guest.h"
 //defualt constructor for guest class
 Guest::Guest()
 {
